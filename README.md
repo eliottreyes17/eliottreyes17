@@ -13,7 +13,7 @@
 <p align="left">
 🎓 Desarrollador De Software
 
-🎥 Programador FullStack integrando microservicios con .NET, SpringBoot, Nest.Js, etc y Diseñando páginas web con Angular  📚😵 
+🎥 Programador FullStack integrando microservicios con .NET, Nest.Js, etc y Diseñando páginas web con Angular  📚😵 
 
 💻 Varios cuántos años de experiencia en el proceso de desarrollo de software.
 
